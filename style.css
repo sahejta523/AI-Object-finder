@@ -1,0 +1,36 @@
+body{
+    background-size:cover ;
+}
+label{
+    font-size: 20px;
+}
+.heading{
+    background-color:#FFC0CB;
+    font-size :30px;
+    margin:0px;
+    width: 100%;
+    padding: 10px;
+}
+#object_name{
+    font-size: 20px;
+    width: 300px;
+    height: 40px;
+}
+#start,#object_status,#status{
+    font-size: 18px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: pink;
+    bottom: 0;
+    width: 100%;
+    background-color:black ;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
